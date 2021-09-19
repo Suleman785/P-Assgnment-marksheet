@@ -14,6 +14,7 @@ public  class Marks {
         }
         else if (percentage>=50){
             System.out.println("lagay tho hamrah khy $ kamer jo shonl aw");
+            Syestem.out.println(:lagay tho hamrah khe jamadar thiaro ahy");
         }
 
     }
